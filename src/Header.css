@@ -44,7 +44,7 @@
 
 .icons-section {
     float:right;
-    margin-left: 300px;
+    margin-left: 550px;
 }
 
  .icons-section2 {
@@ -55,6 +55,8 @@
 
 .iconz {
     display: flex;
+    justify-content: center;
+    
  
    
 }
