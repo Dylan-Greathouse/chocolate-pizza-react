@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import divider from './assets/Capture.PNG';
+
 import vanessa from './assets/van-pic.png';
 
 class Footer extends Component {
@@ -8,11 +8,7 @@ class Footer extends Component {
     render() { 
         return ( 
             <>
-            <section className="divider2">
-<img src={divider} alt='divider'/>
-</section>
-
-
+    
 <section className="vanessa">
 <section className="vanessa-img">
     <img src={vanessa} alt='vanessa'/>
